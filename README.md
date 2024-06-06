@@ -6,3 +6,6 @@ Po zeskanowaniu kodu QR, uczestnicy otrzymują pytania do rozwiązania. Skrypt P
 
 Technicznie, projekt opiera się na komunikacji między front-endem (HTML, CSS, JavaScript) i back-endem (PHP, MySQL). Dane są przesyłane w formacie JSON, co zapewnia elastyczność i efektywność aplikacji. Wykorzystanie bibliotek takich jak html5-qrcode oraz technologii backendowych (PHP, MySQL) sprawia, że projekt jest nowoczesny, bezpieczny i wydajny.
 Gra terenowa z kodami QR łączy zabawę z technologią, oferując dynamiczne i angażujące doświadczenie. 
+
+
+Hasła to: 12345
